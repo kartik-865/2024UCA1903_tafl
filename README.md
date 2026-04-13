@@ -2,7 +2,6 @@
 
 A web-based **Regular Expression Workbench** built for the Theory of Automata & Formal Languages (TAFL) course. This tool lets you write regular expressions using an interactive palette, generate all accepted strings, and check equivalence between two regular expressions — all in the browser with no setup required.
 
----
 
 ## Features
 

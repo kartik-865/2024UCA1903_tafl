@@ -63,7 +63,6 @@ re-workbench/
 └── index.html      # Complete app — single self-contained file
 ```
 
----
 
 ## Author
 
@@ -71,4 +70,3 @@ re-workbench/
 Roll No: `2024UCA1903`  
 Subject: Theory of Automata & Formal Languages (TAFL)
 
----

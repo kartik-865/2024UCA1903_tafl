@@ -54,7 +54,7 @@ Then open `http://localhost:8000` in your browser.
 
 ## Tech Stack
 
-- Pure **HTML5, CSS3, JavaScript** — zero frameworks, zero dependencies
+- Pure **HTML5** — zero frameworks, zero dependencies
 - Custom recursive descent **RE parser** built from scratch
 - **String enumeration** via AST traversal with BFS-style frontier expansion
 - **Equivalence checking** by comparing generated string sets up to a bounded length
@@ -77,7 +77,3 @@ Roll No: `2024UCA1903`
 Subject: Theory of Automata & Formal Languages (TAFL)
 
 ---
-
-## 📄 License
-
-This project was created as a college assignment. Feel free to use it for learning purposes.

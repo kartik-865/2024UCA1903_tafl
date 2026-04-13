@@ -1,16 +1,10 @@
-# RE Workbench 🔬
+# RE Workbench
 
 A web-based **Regular Expression Workbench** built for the Theory of Automata & Formal Languages (TAFL) course. This tool lets you write regular expressions using an interactive palette, generate all accepted strings, and check equivalence between two regular expressions — all in the browser with no setup required.
 
 ---
 
-## 🌐 Live Demo
-
-👉 **[Open RE Workbench](https://yourusername.github.io/re-workbench)**
-
----
-
-## ✨ Features
+## Features
 
 ### String Generator
 - Interactive symbol palette for building regular expressions (quantifiers, operators, alphabet symbols)
@@ -26,7 +20,7 @@ A web-based **Regular Expression Workbench** built for the Theory of Automata & 
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Just open the live link above. No installation, no dependencies, no internet required after load.
 
@@ -43,7 +37,7 @@ Then open `http://localhost:8000` in your browser.
 
 ---
 
-## 🧪 Example Regular Expressions to Try
+## Example Regular Expressions to Try
 
 | RE | Description |
 |----|-------------|
@@ -58,7 +52,7 @@ Then open `http://localhost:8000` in your browser.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Pure **HTML5, CSS3, JavaScript** — zero frameworks, zero dependencies
 - Custom recursive descent **RE parser** built from scratch
@@ -67,7 +61,7 @@ Then open `http://localhost:8000` in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 re-workbench/
@@ -76,7 +70,7 @@ re-workbench/
 
 ---
 
-## 👤 Author
+## Author
 
 **Kartik Gahlot**  
 Roll No: `2024UCA1903`  

@@ -17,7 +17,6 @@ A web-based **Regular Expression Workbench** built for the Theory of Automata & 
 - Shows **witness strings** — strings that are in one language but not the other — when REs are not equivalent
 - Visual `≡` / `≢` verdict with clear explanation
 
----
 
 ## Usage
 
@@ -34,7 +33,6 @@ python -m http.server 8000
 ```
 Then open `http://localhost:8000` in your browser.
 
----
 
 ## Example Regular Expressions to Try
 
@@ -49,7 +47,6 @@ Then open `http://localhost:8000` in your browser.
 - `(a|b)*` ≡ `(a*b*)*` → **Equivalent**
 - `ab*` ≡ `a*b` → **Not Equivalent**
 
----
 
 ## Tech Stack
 
@@ -58,7 +55,6 @@ Then open `http://localhost:8000` in your browser.
 - **String enumeration** via AST traversal with BFS-style frontier expansion
 - **Equivalence checking** by comparing generated string sets up to a bounded length
 
----
 
 ## Project Structure
 
